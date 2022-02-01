@@ -1,0 +1,8 @@
+{
+    "yandiya_scarlet": "#ac0231",
+    "yandiya_red": "#E01414",
+    "yandiya_red_darkened": "#930000",
+    "yandiya_black": "#0c0909",
+    "calc_button_b": "#b37709",
+    "calc_button_b_border": "#edb142"
+  }
